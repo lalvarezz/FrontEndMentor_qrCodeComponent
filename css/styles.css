@@ -28,11 +28,13 @@ body {
     text-align: center;
 }
 
-.qrCard .text {
+.text {
     margin: 1em;
+    color: hsl(220, 15%, 55%);
 }
 
 .text h2 {
+    color: hsl(218, 44%, 22%);
     margin-bottom: 0.5em;
 }
 
